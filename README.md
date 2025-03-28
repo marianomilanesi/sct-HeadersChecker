@@ -13,7 +13,6 @@ Check the version of installed GO
 ```
 go version
 ```
-Create virtual environment
 
 ### USAGE
 
