@@ -4,7 +4,18 @@
 
 Security checks for http headers and cookies
 
-## USAGE
+## INSTALATION
+Compile SCT
+```
+go build -o sct main.go
+```
+Check the version of installed GO
+```
+go version
+```
+Create virtual environment
+
+### USAGE
 
 Options:
 
